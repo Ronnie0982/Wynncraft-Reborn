@@ -29,7 +29,6 @@ Add any other context about the problem here.
 Version: 
 
 **Modified Client**
-- [ ] Yes
-- [ ] No
+Yes or No:
 
 **Crashlog**
