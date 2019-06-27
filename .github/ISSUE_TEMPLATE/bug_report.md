@@ -17,7 +17,6 @@ Steps to reproduce the behavior:
 3. 
 4. 
 
-
 **Screenshots (if possible)**
 If applicable, add screenshots to help explain your problem.
 
@@ -32,3 +31,4 @@ Version:
 Yes or No:
 
 **Crashlog**
+Set here as a spoiler or make a pastebin link:
