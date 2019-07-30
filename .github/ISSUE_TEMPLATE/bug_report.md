@@ -13,16 +13,13 @@ assignees: ''
 **To Reproduce**
 Steps to reproduce the behavior:
 1. 
-2. ...'
+2. 
 3. 
 4. 
 
 **Screenshots (if possible)**
 If applicable, add screenshots to help explain your problem.
 
-
-**Additional context**
-Add any other context about the problem here.
 
 **Reborn Version**
 Version: 
@@ -31,4 +28,5 @@ Version:
 Yes or No:
 
 **Crashlog**
+If crash otherwise delete.
 Set here as a spoiler or make a pastebin link:
